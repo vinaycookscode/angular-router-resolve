@@ -1,0 +1,10 @@
+.basic-div {
+  background: #c2c2c2;
+  height: 100px;
+  margin-bottom: 1px;
+}
+
+.basic-div:hover {
+  background-color: yellow;
+  cursor: pointer;
+}
